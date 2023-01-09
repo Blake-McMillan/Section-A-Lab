@@ -1,0 +1,17 @@
+C:\Users\blake.mcmillan\source\repos\Section A Lab - Blake\Section A Lab - Blake\bin\Debug\net6.0-windows\Section A Lab - Blake.exe
+C:\Users\blake.mcmillan\source\repos\Section A Lab - Blake\Section A Lab - Blake\bin\Debug\net6.0-windows\Section A Lab - Blake.deps.json
+C:\Users\blake.mcmillan\source\repos\Section A Lab - Blake\Section A Lab - Blake\bin\Debug\net6.0-windows\Section A Lab - Blake.runtimeconfig.json
+C:\Users\blake.mcmillan\source\repos\Section A Lab - Blake\Section A Lab - Blake\bin\Debug\net6.0-windows\Section A Lab - Blake.dll
+C:\Users\blake.mcmillan\source\repos\Section A Lab - Blake\Section A Lab - Blake\bin\Debug\net6.0-windows\Section A Lab - Blake.pdb
+C:\Users\blake.mcmillan\source\repos\Section A Lab - Blake\Section A Lab - Blake\obj\Debug\net6.0-windows\Section A Lab - Blake.csproj.AssemblyReference.cache
+C:\Users\blake.mcmillan\source\repos\Section A Lab - Blake\Section A Lab - Blake\obj\Debug\net6.0-windows\Section_A_Lab___Blake.Form1.resources
+C:\Users\blake.mcmillan\source\repos\Section A Lab - Blake\Section A Lab - Blake\obj\Debug\net6.0-windows\Section A Lab - Blake.csproj.GenerateResource.cache
+C:\Users\blake.mcmillan\source\repos\Section A Lab - Blake\Section A Lab - Blake\obj\Debug\net6.0-windows\Section A Lab - Blake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blake.mcmillan\source\repos\Section A Lab - Blake\Section A Lab - Blake\obj\Debug\net6.0-windows\Section A Lab - Blake.AssemblyInfoInputs.cache
+C:\Users\blake.mcmillan\source\repos\Section A Lab - Blake\Section A Lab - Blake\obj\Debug\net6.0-windows\Section A Lab - Blake.AssemblyInfo.cs
+C:\Users\blake.mcmillan\source\repos\Section A Lab - Blake\Section A Lab - Blake\obj\Debug\net6.0-windows\Section A Lab - Blake.csproj.CoreCompileInputs.cache
+C:\Users\blake.mcmillan\source\repos\Section A Lab - Blake\Section A Lab - Blake\obj\Debug\net6.0-windows\Section A Lab - Blake.dll
+C:\Users\blake.mcmillan\source\repos\Section A Lab - Blake\Section A Lab - Blake\obj\Debug\net6.0-windows\refint\Section A Lab - Blake.dll
+C:\Users\blake.mcmillan\source\repos\Section A Lab - Blake\Section A Lab - Blake\obj\Debug\net6.0-windows\Section A Lab - Blake.pdb
+C:\Users\blake.mcmillan\source\repos\Section A Lab - Blake\Section A Lab - Blake\obj\Debug\net6.0-windows\Section A Lab - Blake.genruntimeconfig.cache
+C:\Users\blake.mcmillan\source\repos\Section A Lab - Blake\Section A Lab - Blake\obj\Debug\net6.0-windows\ref\Section A Lab - Blake.dll
