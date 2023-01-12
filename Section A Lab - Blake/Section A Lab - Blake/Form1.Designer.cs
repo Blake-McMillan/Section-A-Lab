@@ -107,6 +107,7 @@
             this.btnDisplay.TabIndex = 7;
             this.btnDisplay.Text = "Display Range";
             this.btnDisplay.UseVisualStyleBackColor = true;
+            this.btnDisplay.Click += new System.EventHandler(this.btnDisplay_Click);
             // 
             // Form1
             // 

@@ -21,10 +21,11 @@ namespace Section_A_Lab___Blake
             Clear();
             //Fills array with random numbers between 1-100 inclusive. display in listbox with do-while loop.
             Random rand = new Random();
+            for (int i = 0; i < myArray.Length; i++)
+                    myArray[i] = rand.Next(0, 101);
             do
             {
-                for (int i = 0; i < myArray.Length; i++)
-                    myArray[i] = rand.Next(0, 101);
+                
 
                 for (int i = 0; i < myArray.Length; i++)
                     lstOutput.Items.Add(myArray[i]);
@@ -44,6 +45,24 @@ namespace Section_A_Lab___Blake
             lstOutput.Items.Clear();
             lstOutput.Items.Add("The Sum of all of the values is: " + sum.ToString());
 
+        }
+
+        private void btnDisplay_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                int val = int.Parse(txtVal.Text);
+                lstOutput.Items.Clear();
+                for (int i = 0; i < val; i++)
+                {
+                    lstOutput.Items.Add(myArray[i].ToString());
+                }
+            }
+            catch
+            {
+                MessageBox.Show("Input not accepted, try again with new value");
+            }
+            
         }
     }
 }
