@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\blake.mcmillan\\source\\repos\\Section A Lab - Blake\\Section A Lab - Blake\\Section A Lab - Blake.csproj": {}
+    "C:\\Users\\blake.mcmillan\\source\\repos\\itec140-a07-r1-Blake-McMillan\\Section-A-Lab(2)\\Section A Lab - Blake\\Section A Lab - Blake\\Section A Lab - Blake.csproj": {}
   },
   "projects": {
-    "C:\\Users\\blake.mcmillan\\source\\repos\\Section A Lab - Blake\\Section A Lab - Blake\\Section A Lab - Blake.csproj": {
+    "C:\\Users\\blake.mcmillan\\source\\repos\\itec140-a07-r1-Blake-McMillan\\Section-A-Lab(2)\\Section A Lab - Blake\\Section A Lab - Blake\\Section A Lab - Blake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\blake.mcmillan\\source\\repos\\Section A Lab - Blake\\Section A Lab - Blake\\Section A Lab - Blake.csproj",
+        "projectUniqueName": "C:\\Users\\blake.mcmillan\\source\\repos\\itec140-a07-r1-Blake-McMillan\\Section-A-Lab(2)\\Section A Lab - Blake\\Section A Lab - Blake\\Section A Lab - Blake.csproj",
         "projectName": "Section A Lab - Blake",
-        "projectPath": "C:\\Users\\blake.mcmillan\\source\\repos\\Section A Lab - Blake\\Section A Lab - Blake\\Section A Lab - Blake.csproj",
+        "projectPath": "C:\\Users\\blake.mcmillan\\source\\repos\\itec140-a07-r1-Blake-McMillan\\Section-A-Lab(2)\\Section A Lab - Blake\\Section A Lab - Blake\\Section A Lab - Blake.csproj",
         "packagesPath": "C:\\Users\\blake.mcmillan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\blake.mcmillan\\source\\repos\\Section A Lab - Blake\\Section A Lab - Blake\\obj\\",
+        "outputPath": "C:\\Users\\blake.mcmillan\\source\\repos\\itec140-a07-r1-Blake-McMillan\\Section-A-Lab(2)\\Section A Lab - Blake\\Section A Lab - Blake\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

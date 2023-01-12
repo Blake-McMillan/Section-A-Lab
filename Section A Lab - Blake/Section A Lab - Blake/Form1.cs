@@ -49,6 +49,7 @@ namespace Section_A_Lab___Blake
 
         private void btnDisplay_Click(object sender, EventArgs e)
         {
+            //displays amount of Values based on what user inputs into value textbox
             try
             {
                 int val = int.Parse(txtVal.Text);
