@@ -69,7 +69,7 @@ namespace Section_A_Lab___Blake
                 {
                     subArray[i] = rand.Next(0, 101);
                     ValArray = subArray[i];
-                    lstOutput.Items.Add($"Subscript {Script}: " + subArray[i]);
+                    lstOutput.Items.Add($"Subscript {Script}: [" + subArray[i] + "]");
                     Script++;
                 }
 
