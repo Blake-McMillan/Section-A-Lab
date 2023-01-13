@@ -50,14 +50,29 @@ namespace Section_A_Lab___Blake
         private void btnDisplay_Click(object sender, EventArgs e)
         {
             //displays amount of Values based on what user inputs into value textbox
+            //select which subscript to start on.
+            Random rand = new Random();
             try
             {
-                int val = int.Parse(txtVal.Text);
                 lstOutput.Items.Clear();
-                for (int i = 0; i < val; i++)
+                int ValArray = 0;
+                int Script = 0;
+                int SubScript = 0;
+
+
+                Script = int.Parse(txtStrt.Text);
+                SubScript = int.Parse(txtVal.Text);
+
+                int[] subArray = new int[SubScript];
+
+                for (int i = Script; i < SubScript; i++)
                 {
-                    lstOutput.Items.Add(myArray[i].ToString());
+                    subArray[i] = rand.Next(0, 101);
+                    ValArray = subArray[i];
+                    lstOutput.Items.Add($"Subscript {Script}: " + subArray[i]);
+                    Script++;
                 }
+
             }
             catch
             {
